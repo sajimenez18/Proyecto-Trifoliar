@@ -10,3 +10,24 @@
     border: 1px solid black;
     margin: auto;
 }
+
+.boton {
+    width: 99%;
+    height: 5rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   margin: 10px;
+    
+    background-color: rgb(129, 129, 156);
+    color: white;
+    
+    border: 2px solid black;
+    border-radius: 5px;
+    
+  
+    font-size: 16px;
+    
+    }
